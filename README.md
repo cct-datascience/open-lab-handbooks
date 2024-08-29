@@ -19,3 +19,4 @@ If anyone feels like organizing these into some kind of meaninful categories (by
 - [Peelle Lab](https://github.com/jpeelle/peellelab_manual/)
 - [Tye Lab](https://tyelab.org/philosophy/)
 - [Whitaker Lab](https://github.com/WhitakerLab/Onboarding)
+- [EpiForecasts Lab](https://epiforecasts.io/lab-manual.html)
