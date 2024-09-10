@@ -7,8 +7,8 @@ Largely inspired by a [Mastodon thread](https://fosstodon.org/deck/@elduvelle@ne
 I've also seen these called lab manuals, lab policies, and lab guides.
 
 ## Contributing
-To add a lab handbook open an issue or make a pull request.
-If anyone feels like organizing these into some kind of meaninful categories (by domain, for example) feel free to submit a pull request.
+To add a lab handbook, open an issue or make a pull request.
+If anyone feels like organizing these into some kind of meaningful categories (by research domain, for example) feel free to submit a pull request.
 
 ## Lab Handbooks
 - [WIN Physics Group](https://zenodo.org/records/7419211)
