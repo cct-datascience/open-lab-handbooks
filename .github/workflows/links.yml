@@ -1,0 +1,41 @@
+# action: https://github.com/lycheeverse/lychee-action
+# lychee: https://github.com/lycheeverse/lychee
+
+name: Links
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+  #first of every month
+    - cron: "0 0 1 * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          fail: true
+          args: >
+            --exclude-path _extensions
+            --exclude docs\.google\.com 
+            --exclude hackmd\.io 
+            --exclude github\.com\/orgs\/cct-datascience\/projects 
+            --exclude calendar\.google\.com 
+            --exclude \.php$ 
+            --exclude portal\.hpc\.arizona\.edu
+            --glob-ignore-case 
+            './**/*.md' './**/*.qmd'
+
+      - name: Create Issue From File
+        if: ${{ failure() && github.event_name != 'pull_request' }}
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
