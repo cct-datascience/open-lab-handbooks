@@ -25,3 +25,7 @@ If anyone feels like organizing these into some kind of meaningful categories (b
 - [Morey Lab](https://ccmorey.github.io/labHandbook/)
 - [Cobey Lab](https://cobeylab.github.io/lab_handbook/)
 - [DaRL Lab](https://darl-lab.gitbook.io/handbook)
+- [Cognition and Learning Lab](https://learninglab.psych.purdue.edu/handbook/)
+- [Lamsdell Lab](http://jameslamsdell.com/lab-handbook)
+- [Rau Lab](https://chrau.gitbook.io/rau-lab-handbook)
+- [Sandkam Lab](https://www.sandkamlab.org/info-for-students)
