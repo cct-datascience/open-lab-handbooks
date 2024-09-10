@@ -22,15 +22,7 @@ jobs:
         with:
           fail: true
           args: >
-            --exclude-path _extensions
-            --exclude docs\.google\.com 
-            --exclude hackmd\.io 
-            --exclude github\.com\/orgs\/cct-datascience\/projects 
-            --exclude calendar\.google\.com 
-            --exclude \.php$ 
-            --exclude portal\.hpc\.arizona\.edu
-            --glob-ignore-case 
-            './**/*.md' './**/*.qmd'
+            'README.md'
 
       - name: Create Issue From File
         if: ${{ failure() && github.event_name != 'pull_request' }}
