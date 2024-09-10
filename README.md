@@ -22,3 +22,6 @@ If anyone feels like organizing these into some kind of meaninful categories (by
 - [Whitaker Lab](https://github.com/WhitakerLab/Onboarding)
 - [EpiForecasts Lab](https://epiforecasts.io/lab-manual.html)
 - [Chory Lab](https://www.chorylab.com/lab-handbook)
+- [Morey Lab](https://ccmorey.github.io/labHandbook/)
+- [Cobey Lab](https://cobeylab.github.io/lab_handbook/)
+- [DaRL Lab](https://darl-lab.gitbook.io/handbook)
