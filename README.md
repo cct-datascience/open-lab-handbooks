@@ -21,3 +21,4 @@ If anyone feels like organizing these into some kind of meaninful categories (by
 - [Tye Lab](https://tyelab.org/philosophy/)
 - [Whitaker Lab](https://github.com/WhitakerLab/Onboarding)
 - [EpiForecasts Lab](https://epiforecasts.io/lab-manual.html)
+- [Chory Lab](https://www.chorylab.com/lab-handbook)
