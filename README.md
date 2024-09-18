@@ -29,3 +29,4 @@ If anyone feels like organizing these into some kind of meaningful categories (b
 - [Lamsdell Lab](http://jameslamsdell.com/lab-handbook)
 - [Rau Lab](https://chrau.gitbook.io/rau-lab-handbook)
 - [Sandkam Lab](https://www.sandkamlab.org/info-for-students)
+- [Weecology lab](https://wiki.weecology.org/docs/)
