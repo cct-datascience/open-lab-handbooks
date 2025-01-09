@@ -1,13 +1,14 @@
 # Lab Handbooks
-A list of lab handbooks<sup>*</sup> (documents with lab group ethos, expectations, policies, procedures, etc.) available openly on the internet.
+A list of lab handbooks<sup>*</sup> (documents that communicate lab group ethos, expectations, policies, and procedures to group members) available openly on the internet.
 Largely inspired by a [Mastodon thread](https://fosstodon.org/deck/@elduvelle@neuromatch.social/112876144574596149) with some of my own additions.
 
 
 <sup>*</sup> "Handbook" is not always the term used, but I feel like it is the least ambiguous of the ones I've encountered.
 I've also seen these called lab manuals, lab policies, and lab guides.
+
 ## Contributing
-To add a lab handbook open an issue or make a pull request.
-If anyone feels like organizing these into some kind of meaninful categories (by domain, for example) feel free to submit a pull request.
+To add a lab handbook, open an issue or make a pull request.
+If anyone feels like organizing these into some kind of meaningful categories (by research domain, for example) feel free to submit a pull request.
 
 ## Lab Handbooks
 - [WIN Physics Group](https://zenodo.org/records/7419211)
@@ -20,3 +21,12 @@ If anyone feels like organizing these into some kind of meaninful categories (by
 - [Tye Lab](https://tyelab.org/philosophy/)
 - [Whitaker Lab](https://github.com/WhitakerLab/Onboarding)
 - [EpiForecasts Lab](https://epiforecasts.io/lab-manual.html)
+- [Chory Lab](https://www.chorylab.com/lab-handbook)
+- [Morey Lab](https://ccmorey.github.io/labHandbook/)
+- [Cobey Lab](https://cobeylab.github.io/lab_handbook/)
+- [DaRL Lab](https://darl-lab.gitbook.io/handbook)
+- [Cognition and Learning Lab](https://learninglab.psych.purdue.edu/handbook/)
+- [Lamsdell Lab](http://jameslamsdell.com/lab-handbook)
+- [Rau Lab](https://chrau.gitbook.io/rau-lab-handbook)
+- [Sandkam Lab](https://www.sandkamlab.org/info-for-students)
+- [Weecology lab](https://wiki.weecology.org/docs/)
