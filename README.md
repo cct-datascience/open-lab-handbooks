@@ -1,4 +1,6 @@
 # Lab Handbooks
+ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 A list of lab handbooks<sup>*</sup> (documents that communicate lab group ethos, expectations, policies, and procedures to group members) available openly on the internet.
 Largely inspired by a [Mastodon thread](https://fosstodon.org/deck/@elduvelle@neuromatch.social/112876144574596149) with some of my own additions.
 
