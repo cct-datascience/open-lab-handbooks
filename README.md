@@ -32,3 +32,4 @@ If anyone feels like organizing these into some kind of meaningful categories (b
 - [Rau Lab](https://chrau.gitbook.io/rau-lab-handbook)
 - [Sandkam Lab](https://www.sandkamlab.org/info-for-students)
 - [Weecology lab](https://wiki.weecology.org/docs/)
+- [Stanford Health Policy Data Science lab](https://stanfordhpds.github.io/lab_manual/)
