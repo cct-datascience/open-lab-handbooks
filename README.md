@@ -33,3 +33,4 @@ If anyone feels like organizing these into some kind of meaningful categories (b
 - [Sandkam Lab](https://www.sandkamlab.org/info-for-students)
 - [Weecology lab](https://wiki.weecology.org/docs/)
 - [Stanford Health Policy Data Science lab](https://stanfordhpds.github.io/lab_manual/)
+- [Data Diversity Lab](https://wiki.datadiversitylab.synology.me/)
