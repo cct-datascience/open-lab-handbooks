@@ -6,7 +6,7 @@ Largely inspired by a [Mastodon thread](https://fosstodon.org/deck/@elduvelle@ne
 
 
 <sup>*</sup> "Handbook" is not always the term used, but I feel like it is the least ambiguous of the ones I've encountered.
-I've also seen these called lab manuals, lab policies, and lab guides.
+I've also seen these called lab manuals, lab policies, lab guides, and lab wikis.
 
 ## Contributing
 To add a lab handbook, open an issue or make a pull request.
